@@ -1,38 +1,35 @@
-# Titulo ou Arte do Projeto
+# Guardião Kurupir
 ## Versão: 1.0 
-## Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
+## Status do Projeto: ⚠️ Em desenvolvimento
 
 ## Tópicos
-🔹 Descrição do projeto 
+🔹 Descrição do projeto
 
-🔹 Funcionalidades
+🔹 Gênero do jogo
 
-🔹 Distribuição
+🔹 Principais mecânicas
 
-🔹 Pré-requisitos
+🔹 Sinopse
 
-🔹 Como rodar a aplicação
+🔹 Diferencial da concorrencia 
 
-🔹 Testes realizados
+🔹 Sistema Operacional/Plataforma do jogo 
 
-🔹 Banco de Dados
+🔹 Público alvo a ser alcançado
 
-🔹 Linguagens, dependências e libs utilizadas
-
-🔹 Novas Recursos
-
-🔹 Resolvendo problemas
-
-🔹 Recursos inseridos 
+🔹 Classificação indicativa
 
 🔹 Desenvolvedores/Contribuintes
+
+🔹 Previsão de Cronograma
+
+🔹 Orçamento do projeto
+
+🔹  Qual objetivo de desenvolvimento sustentável da ONU foi utilizado no projeto
 
 🔹 Informações Extras
 
 
-...
-
-Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto
 Descrição breve do projeto compondo um paragrafo ou dois.
