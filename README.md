@@ -1,14 +1,14 @@
-Guardião Kurupir
+Titulo ou Arte do Projeto
 Versão: 1.0
-Status do Projeto: ⚠️ Em Desenvolvimento
+Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
 Tópicos
 🔹 Descrição do projeto
 
-🔹 Gênero do jogo
+🔹 Funcionalidades
 
-🔹 Mecânicas principais
+🔹 Distribuição
 
-🔹 Sinopse
+🔹 Pré-requisitos
 
 🔹 Como rodar a aplicação
 
@@ -25,7 +25,6 @@ Tópicos
 🔹 Recursos inseridos
 
 🔹 Desenvolvedores/Contribuintes
-Eduardo S.U. Pereira, Guilherme O. Nascimento, Leonardo F. Viliotti, Luís G. de A. Picinato, Daniel Ohata
 
 🔹 Informações Extras
 
