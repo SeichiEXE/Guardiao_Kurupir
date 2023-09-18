@@ -40,7 +40,7 @@ Indie, plataforma 2D, side-scrooling, 16 Bits;
 ## Funcionamento do jogo
 O jogador, ao iniciar a fase, tem como objetivo chegar até o final da mesma (podendo ir para a direita ou esquerda), tendo que atravessar diversos obstáculos, que variam entre perigos incluídos no cenário da fase e inimigos que tentarão derrotar o jogador. Ao final de cada fase, um chefe aparecerá para tentar acabar com o protagonista, fazendo com que o jogador enfrente um oponente extra no final antes de prosseguir para a próxima fase. O curupira, por sua vez, utilizará de seu arco e artimanhas para poder enfrentar os desafios propostos em cada nível.
 
-## Primcipais Mecânicas
+## Principais Mecânicas
 Kuru: correr, pular, usar dash, ataque a distância (arco e flecha);
 Aliados folclóricos: conjurar aliados presentes no Folclore Brasileiro;
 Pés invertidos: em caso de necessidade de fuga, Kurupira pode usar seus pés invertidos a seu favor para despistar os inimigos; 
