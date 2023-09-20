@@ -50,6 +50,10 @@ Resgate Nativo: Kurupira pode resgatar animais que são capturados pelos contrab
 Em meio a constante devastação, poluição e contrabando da fauna Amazônica, um grupo de criminosos tem o plano de causar um deslizamento e destruir uma comunidade indígena para poder expandir seus negócios e extrair mais recursos. o plano, é infelizmente executado e destrói a comunidade, matando vários indígenas. Entretanto, o Pajé, debilitado pelo deslizamento, usa seus conhecimentos e conjura Kuru, o Curupira guardião e protetor da floresta e dos animais. O Pajé explica que o grupo está aumentando suas forças e precisa ser parado, pedindo para que Kuru e seus amigos do Folclore salvem a floresta e todos que vivem nela, Kuru então parte na busca dos malfeitores, com o objetivo de encerrar esse ciclo de destruição da Amazônia.
 
 ## Diferencial da concorrência
+Combina as diferentes mecânicas de vários jogos usados como inspiraçãp em 1 só;
+Ensina sobre a mitologia amazônica;
+Aborda um tema dos Objetivos de Desenvolvimento Sustentável;
+
 
 ## Sistema Operacional/Plataforma do jogo 
 Windows 10/11 - PC
