@@ -61,7 +61,7 @@ Windows 10/11 - PC
 Adolescentes, jovens e adultos
 
 ## Classificação indicativa
-14 anos
+10 anos
 
 ## Desenvolvedores/Contribuintes
 Eduardo S. U. Pereira, Luis G. de A. Picinato, Daniel Ohata (Orientador)
