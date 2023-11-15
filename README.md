@@ -29,6 +29,8 @@
 
 🔹 Objetivo de desenvolvimento sustentável da ONU utilizado
 
+🔹 Linguagens, dependências e libs utilizadas
+
 
 
 ## Descrição do projeto
@@ -86,5 +88,11 @@ Semana 12: Apresentação atualizada, mostrando o progresso feito
 ## Objetivo de desenvolvimento sustentável da ONU utilizado
  Meta 15.5
 Tomar medidas urgentes e significativas para reduzir a degradação de habitat naturais, deter a perda de biodiversidade e, até 2020, proteger e evitar a extinção de espécies ameaçadas;
+
+## Linguagens, dependências e libs utilizadas
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white 
+https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+
 
 ## Copyright ©️ Ano 2023 - Guardiao Kuru
